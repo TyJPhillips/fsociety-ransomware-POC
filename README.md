@@ -28,7 +28,7 @@
 + Send to jester C&C (Number file...)
 + Ask reward & setup jester pages
 
-(For security reason the ransomware crypt only .txt but you can change on c++ file)
+(For security reasons and user safety, the ransomware crypt only `.txt` but you can change on c++ file)
 
 #### please remember this  is just a PoC the ransomware is not stable is just for fun!
 
