@@ -2,7 +2,7 @@
 
 ![Fsociety ransomware graniet](https://s3.postimg.org/y861zq31v/Capture_d_cran_de_2016_10_30_12_18_08.png)
 
-# On show
+# Example in screenshot below:
 
 ![Fsociety ransomware graniet](http://www.welivesecurity.com/wp-content/uploads/2016/07/mrrobot11-1024x590.jpg)
 
